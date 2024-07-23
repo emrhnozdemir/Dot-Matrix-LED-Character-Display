@@ -1,6 +1,3 @@
-//Emirhan Ozdemir 28293
-//Mehmet Arda Muftuoglu 29547
-
 #define F_CPU 16000000UL
 #include <avr/io.h>
 #include <avr/interrupt.h>
